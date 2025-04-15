@@ -26,12 +26,15 @@ Data analysis: Anayze broad sales data of MNCs bicycle manufacturer aross variou
 + Statistical-based forcasting: For cast sales using VAR model
 + Visualize data via PowerBI, Charting via Excel
 + Report writing and Presentation to the judge
++ See more about the technical work: https://drive.google.com/drive/folders/1_-F2v01niQWgwGIen-glR2t8oLUOmQ2h?usp=sharing
    
 Strategic formulation
 + Detecting the problem symptom and its roots cause both data-driven and from desktop research 
 + Inferencing problem roots cause (from portfolio mix, External market pandamic shock,...)
 + Formulate strategy to expand and optimize profit - the Resource reallocation strategy across Product lines, Customer base and Market
++ See more in the file Report.pdf
 
+   
 ## 6. My Role
 - Data analysis / Visualization - 50% of the work by Excel
 - Strategic management - 30% of the work
