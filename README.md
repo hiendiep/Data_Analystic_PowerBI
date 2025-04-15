@@ -33,7 +33,7 @@ Strategic formulation
 + Formulate strategy to expand and optimize profit - the Resource reallocation strategy across Product lines, Customer base and Market
 
 ## 6. My Role
-- Data analysis - 50% of the work by Excel
+- Data analysis / Visualization - 50% of the work by Excel
 - Strategic management - 30% of the work
 
 
